@@ -8,7 +8,7 @@
         <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="n0201" revision="lineage-20.0" clone-depth="1" /> 
         <project path="device/samsung/dreamlte" name="android_device_samsung_dreamlte" remote="n0201" revision="lineage-20.0" clone-depth="1" />
         <project path="device/samsung/greatlte" name="android_device_samsung_greatlte" remote="n0201" revision="lineage-20.0" clone-depth="1" />
-        <project path="kernel/samsung/universal8895" name="android_kernel_samsung_universal8895" remote="n0201" revision="lineage-20.0" clone-depth="1" />
+        <project path="kernel/samsung/universal8895" name="MiDoNaSR545/android_kernel_samsung_universal8895" remote="github" revision="lineage-20.0" clone-depth="1" />
         <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="n0201" revision="lineage-20.0" clone-depth="1" />
         <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-20" remote="github" />
         <project name="PixelExperience/hardware_samsung" path="hardware/samsung" revision="thirteen" remote="github" />
