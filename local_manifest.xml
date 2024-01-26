@@ -3,14 +3,17 @@
 
         <remote  name="n0201"
         fetch="https://github.com/n0201" />
+
       
-        <project path="device/samsung/universal8895-common" name="android_device_samsung_universal8895-common" remote="n0201" revision="lineage-20.0" clone-depth="1" />
-        <project path="device/samsung/dream2lte" name="android_device_samsung_dream2lte" remote="n0201" revision="lineage-20.0" clone-depth="1" /> 
-        <project path="device/samsung/dreamlte" name="android_device_samsung_dreamlte" remote="n0201" revision="lineage-20.0" clone-depth="1" />
-        <project path="device/samsung/greatlte" name="android_device_samsung_greatlte" remote="n0201" revision="lineage-20.0" clone-depth="1" />
-        <project path="kernel/samsung/universal8895" name="MiDoNaSR545/android_kernel_samsung_universal8895" remote="github" revision="lineage-20.0" clone-depth="1" />
-        <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="n0201" revision="lineage-20.0" clone-depth="1" />
-        <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-20" remote="github" />
-        <project name="PixelExperience/hardware_samsung" path="hardware/samsung" revision="thirteen" remote="github" />
+        <project path="device/xiaomi/cupid" name="android_device_xiaomi_cupid" remote="n0201" revision="android-14.0" clone-depth="1" />
+        <project path="device/qcom/cupid-kernel" name="yarpiin/android_device_qcom_cupid-kernel" remote="github" revision="main" clone-depth="1" />
+        <project path="kernel/xiaomi/cupid" name="yarpiin/kernel_xiaomi_cupid" remote="github" revision="a14" clone-depth="1" />
+        <project name="yarpiin/proprietary_vendor_qcom_common" path="vendor/qcom/common" revision="uvite" remote="github" />
+        <project name="yarpiin/android_device_qcom_common" path="device/qcom/common" revision="uvite" remote="github" />
+        <project name="yarpiin/android_hardware_qcom-caf_sm8450_display" path="hardware/qcom-caf/sm8450/display" revision="sm8450" remote="github" />
+        <project name="yarpiin/android_hardware_qcom-caf_sm8450_media" path="hardware/qcom-caf/sm8450/media" revision="sm8450" remote="github" />
+        <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_primary-hal" path="hardware/qcom-caf/sm8450/audio/primary-hal" revision="sm8450" remote="github" />
+        <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_pal" path="hardware/qcom-caf/sm8450/audio/pal" revision="sm8450" remote="github" />
+        <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_agm" path="hardware/qcom-caf/sm8450/audio/agm" revision="sm8450" remote="github" />
         </manifest>
 
