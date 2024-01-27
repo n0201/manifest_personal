@@ -5,9 +5,9 @@
         fetch="https://github.com/n0201" />
 
       
-        <project path="device/xiaomi/cupid" name="android_device_xiaomi_cupid" remote="n0201" revision="android-14.0" clone-depth="1" />
-        <project path="device/qcom/cupid-kernel" name="yarpiin/android_device_qcom_cupid-kernel" remote="github" revision="main" clone-depth="1" />
-        <project path="kernel/xiaomi/cupid" name="yarpiin/kernel_xiaomi_cupid" remote="github" revision="a14" clone-depth="1" />
+        <project path="device/xiaomi/cupid" name="android_device_xiaomi_cupid" remote="n0201" revision="android-14.0" />
+        <project path="device/qcom/cupid-kernel" name="yarpiin/android_device_qcom_cupid-kernel" remote="github" revision="main" />
+        <project path="kernel/xiaomi/cupid" name="yarpiin/kernel_xiaomi_cupid" remote="github" revision="a14" />
         <project name="yarpiin/proprietary_vendor_qcom_common" path="vendor/qcom/common" revision="uvite" remote="github" />
         <project name="yarpiin/android_device_qcom_common" path="device/qcom/common" revision="uvite" remote="github" />
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_display" path="hardware/qcom-caf/sm8450/display" revision="sm8450" remote="github" />
@@ -15,5 +15,6 @@
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_primary-hal" path="hardware/qcom-caf/sm8450/audio/primary-hal" revision="sm8450" remote="github" />
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_pal" path="hardware/qcom-caf/sm8450/audio/pal" revision="sm8450" remote="github" />
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_agm" path="hardware/qcom-caf/sm8450/audio/agm" revision="sm8450" remote="github" />
+        <project name="yarpiin/hardware_xiaomi" path="hardware/xiaomi" revision="tiramisu" remote="github" />
         </manifest>
 
