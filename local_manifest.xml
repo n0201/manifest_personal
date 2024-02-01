@@ -15,6 +15,6 @@
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_primary-hal" path="hardware/qcom-caf/sm8450/audio/primary-hal" revision="sm8450" remote="github" />
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_pal" path="hardware/qcom-caf/sm8450/audio/pal" revision="sm8450" remote="github" />
         <project name="yarpiin/android_hardware_qcom-caf_sm8450_audio_agm" path="hardware/qcom-caf/sm8450/audio/agm" revision="sm8450" remote="github" />
-        <project name="yarpiin/hardware_xiaomi" path="hardware/xiaomi" revision="tiramisu" remote="github" />
+        <project name="Evolution-X/hardware_xiaomi" path="hardware/xiaomi" revision="udc" remote="github" />
         </manifest>
 
