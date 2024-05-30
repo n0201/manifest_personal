@@ -13,5 +13,6 @@
         <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="cupid" revision="lineage-21-als" />
         <project path="kernel/xiaomi/sm8450-devicetrees" name="android_kernel_xiaomi_sm8450-devicetrees" remote="cupid" revision="lineage-21" />
         <project path="vendor/xiaomi/sm8450-common" name="proprietary_vendor_xiaomi_sm8450-common" remote="cupid_mainlining" revision="lineage-21" />
+        <project path="vendor/xiaomi/cupid" name="proprietary_vendor_xiaomi_cupid" remote="cupid_mainlining" revision="lineage-21" />
         </manifest>
 
